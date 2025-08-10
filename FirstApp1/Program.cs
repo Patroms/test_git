@@ -5,7 +5,7 @@ namespace CSharpEssentials
     {
         static void Main()
         {
-
+            string pupil1;
         }
     }
 }
