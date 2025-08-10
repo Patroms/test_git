@@ -21,5 +21,6 @@ namespace CSharpEssentials
         {
             cnt = a;
         }
+        int mny = 0;
     }
 }
